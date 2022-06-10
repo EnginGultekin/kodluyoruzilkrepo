@@ -1,0 +1,30 @@
+# Projede istenmeyen versiyonların tutulduğu yer
+
+# Görseller 
+# Videolar
+# Logolar
+# Paket Yöneticisi İle Kurulmuş Dosyalar Olabilir ??
+
+# IDE - VSCode
+!.vscode/setting.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# .img
+# jpg ve png uzantılı olan tüm resimleri gitignora at
+*.jpg
+*.png
+images/slider/ 
+#        Or
+images/
+ 
+# videos
+*.mp4
+
+# packages
+
+# log
+*.log
+
+password.txt
